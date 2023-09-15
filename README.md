@@ -1,1 +1,1 @@
-# pri_diooo
+repo-remoto
